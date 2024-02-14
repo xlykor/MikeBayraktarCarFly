@@ -1,3 +1,14 @@
+
+wait(1.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Welcome"; -- the title (ofc)
+Text = "Script Made By Mikeexc"; -- what the text says (ofc)
+Icon = ""; -- the image if u want. 
+Duration = 5; -- how long the notification should in secounds
+})
+
+
+
 --Made By Mikeexc Online
 -- Version: 3.2
 
