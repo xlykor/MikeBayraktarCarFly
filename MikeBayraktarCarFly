@@ -1,4 +1,12 @@
 
+
+
+local url = "https://discord.com/invite/9tdcywKPdh"
+setclipboard(url)
+print("Discord url has been copied to your clipboard!")
+
+
+
 wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
 Title = "Welcome"; -- the title (ofc)
