@@ -10,13 +10,13 @@ print("Discord url has been copied to your clipboard!")
 wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
 Title = "Welcome"; -- the title (ofc)
-Text = "Script Made By VestaHub"; -- what the text says (ofc)
+Text = "Script Made By LynethHub"; -- what the text says (ofc)
 Icon = ""; -- the image if u want. 
 Duration = 5; -- how long the notification should in secounds
 })
 
 
---Made By VestaHub V1
+--Made By LynethHub V1
 -- Version: 3.2
 
 -- Instances:
@@ -67,7 +67,7 @@ ddnsfbfwewefe.BorderSizePixel = 0
 ddnsfbfwewefe.Position = UDim2.new(-0.000210968778, 0, -0.00395679474, 0)
 ddnsfbfwewefe.Size = UDim2.new(0, 237, 0, 27)
 ddnsfbfwewefe.Font = Enum.Font.SourceSans
-ddnsfbfwewefe.Text = "Script Made By VestaHub"
+ddnsfbfwewefe.Text = "Script Made By LynethHub"
 ddnsfbfwewefe.TextColor3 = Color3.fromRGB(255, 255, 255)
 ddnsfbfwewefe.TextScaled = true
 ddnsfbfwewefe.TextSize = 14.000
